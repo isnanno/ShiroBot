@@ -29,8 +29,8 @@
   },
   "104127791141069@lid": {
     "nome": "Nanno",
-    "ouro": 8920,
-    "bank": 359858,
+    "ouro": 39240,
+    "bank": 972477,
     "cla": "Clã Beyond",
     "cla_id": "beyond",
     "passivos": [
@@ -49,29 +49,120 @@
       {
         "id": "meimei_corvos",
         "nome": "Contrato (Mei Mei)"
+      },
+      {
+        "id": "bachira_drible",
+        "nome": "Showtime (Meguru Bachira)"
+      },
+      {
+        "id": "isagi_adapt",
+        "nome": "Visão (Yoichi Isagi)"
+      },
+      {
+        "id": "nagi_trap",
+        "nome": "Domínio (Seishiro Nagi)"
+      },
+      {
+        "id": "mr_satan_fama",
+        "nome": "Fama (Mr. Satan)"
+      },
+      {
+        "id": "nami_mapa",
+        "nome": "Navegação (Nami)"
+      },
+      {
+        "id": "zoro_caminho",
+        "nome": "Caçada (Roronoa Zoro)"
+      },
+      {
+        "id": "luffy_tesouro",
+        "nome": "Sorte do Rei (Monkey D. Luffy)"
+      },
+      {
+        "id": "sanji_cozinha",
+        "nome": "Banquete (Sanji)"
+      },
+      {
+        "id": "inumaki_ordem",
+        "nome": "Feitiçaria Inata (Toge Inumaki)"
+      },
+      {
+        "id": "naruto_lamen",
+        "nome": "Aposta do Lamen (Naruto)"
+      },
+      {
+        "id": "kakashi_missao",
+        "nome": "Missão Rank-A (Kakashi)"
+      },
+      {
+        "id": "jiraiya_pesquisa",
+        "nome": "Pesquisa (Jiraiya)"
+      },
+      {
+        "id": "levi_limpeza",
+        "nome": "Faxina (Levi Ackerman)"
+      },
+      {
+        "id": "hange_pesquisa",
+        "nome": "Pesquisa (Hange Zoë)"
+      },
+      {
+        "id": "tanjiro_missao",
+        "nome": "Missão (Tanjiro Kamado)"
+      },
+      {
+        "id": "inosuke_besta",
+        "nome": "Caça Selvagem (Inosuke)"
+      },
+      {
+        "id": "goku_genkidama",
+        "nome": "Doações (Goku)"
+      },
+      {
+        "id": "vegeta_treino",
+        "nome": "Patrocínio (Vegeta)"
+      },
+      {
+        "id": "jotaro_pesquisa",
+        "nome": "Expedição Marinha (Jotaro)"
       }
     ],
     "habilidades": [
       "olhos_shinigami"
     ],
     "cooldowns": {
-      "deposit": 1762084093826,
-      "pix": 1762082860798,
-      "olhos_shinigami": 1762081214625,
-      "diario": "2025-11-01"
+      "deposit": 1762390090719,
+      "pix": 1762307502358,
+      "diario": "2025-11-03",
+      "work": 1762193784990,
+      "mine": 1762193743578,
+      "fish": 1762193751959,
+      "forjar": 1762193753690,
+      "fazerbolo": 1762193747715,
+      "explore": 1762193946023,
+      "hunt": 1762194007926,
+      "crime": 1762193977044,
+      "olhos_shinigami": 1762368578348,
+      "buy_expensive_skill": 1762432725530
     },
     "job": null,
     "lastKnownChatId": "120363405774333550@g.us",
     "buffs": {
-      "mahoraga_adapt": 1761970947767
+      "mahoraga_adapt": 1761970947767,
+      "pocao_dinheiro": 1762196955621,
+      "aokiji_freeze": 1762307610134
+    },
+    "notificationChatId": "120363405774333550@g.us",
+    "pocoesCooldown": {
+      "dinheiro": 1762200555621
     }
   },
   "20938133364960@lid": {
     "nome": "silvatws",
-    "ouro": 21658,
-    "bank": 125757,
-    "cla": "Clã Tsugikuni",
-    "cla_id": "tsugikuni",
+    "ouro": 33340,
+    "bank": 936669,
+    "cla": "Clã Gojo",
+    "cla_id": "gojo",
     "passivos": [
       {
         "id": "mr_satan_fama",
@@ -166,77 +257,158 @@
         "nome": "Doações (Goku)"
       }
     ],
-    "habilidades": [],
+    "habilidades": [
+      "getsuga_tenshou",
+      "bankai_hyorinmaru",
+      "excalibur",
+      "domino",
+      "king_crimson",
+      "kira_queen",
+      "mahoraga_adapt",
+      "mahito",
+      "mugen",
+      "olhos_shinigami",
+      "deathnote",
+      "amaterasu",
+      "rasengan",
+      "soco_serio",
+      "respiracao_do_sol",
+      "akaza_compass",
+      "kaikai",
+      "kamehameha",
+      "bola_de_ki",
+      "tsubame_gaeshi",
+      "geass",
+      "gate_of_babylon",
+      "gomu_gomu_storm",
+      "santoryu",
+      "gomu_gomu_rocket",
+      "aokiji",
+      "zawarudo"
+    ],
     "cooldowns": {
-      "work": 1762052890417,
-      "explore": 1762052958560,
-      "mine": 1762052774221,
-      "hunt": 1762053016879,
-      "fish": 1762052840043,
-      "diario": "2025-11-01",
-      "forjar": 1762052841621,
-      "crime": 1762053083127,
-      "fazerbolo": 1762052848254,
-      "deposit": 1762056117314,
-      "olhos_shinigami": 1761971482422,
-      "pix": 1762041484124
+      "work": 1762309347716,
+      "explore": 1762309417649,
+      "mine": 1762309229537,
+      "hunt": 1762309471747,
+      "fish": 1762309293043,
+      "diario": "2025-11-03",
+      "forjar": 1762309294798,
+      "crime": 1762309536113,
+      "fazerbolo": 1762309302253,
+      "deposit": 1762390085250,
+      "pix": 1762307483230,
+      "buy_expensive_skill": 1762389554393
     },
     "job": null,
-    "lastKnownChatId": "120363405774333550@g.us"
+    "lastKnownChatId": "120363405774333550@g.us",
+    "pocoesCooldown": {
+      "sorte": 1762200682993,
+      "dinheiro": 1762200713267
+    },
+    "buffs": {
+      "pocao_sorte": 1762197082993,
+      "pocao_dinheiro": 1762197113267,
+      "aokiji_freeze": 1762175377988
+    },
+    "mugen_charges": 1,
+    "mugen_cooldown": 1762382147005
   },
   "63256798474337@lid": {
     "nome": "ateninha",
-    "ouro": 0,
-    "bank": 126879,
+    "ouro": 76720,
+    "bank": 413090,
     "cla": "Clã Beyond",
     "cla_id": "beyond",
-    "passivos": [],
+    "passivos": [
+      {
+        "id": "vegeta_treino",
+        "nome": "Patrocínio (Vegeta)"
+      },
+      {
+        "id": "goku_genkidama",
+        "nome": "Doações (Goku)"
+      },
+      {
+        "id": "jotaro_pesquisa",
+        "nome": "Expedição Marinha (Jotaro)"
+      },
+      {
+        "id": "isagi_adapt",
+        "nome": "Visão (Yoichi Isagi)"
+      },
+      {
+        "id": "nagi_trap",
+        "nome": "Domínio (Seishiro Nagi)"
+      }
+    ],
     "habilidades": [
       "olhos_shinigami"
     ],
     "cooldowns": {
-      "deposit": 1762016944606,
-      "work": 1762012137982,
-      "forjar": 1762012082960,
-      "mine": 1762012020643,
-      "hunt": 1761951608534,
-      "fish": 1762012087224,
-      "fazerbolo": 1762012090038,
+      "deposit": 1762334491890,
+      "work": 1762248326751,
+      "forjar": 1762248276646,
+      "mine": 1762248208588,
+      "hunt": 1762248451230,
+      "fish": 1762165495863,
+      "fazerbolo": 1762165510080,
       "buy_expensive_skill": 1762011031978,
       "pix": 1761936333976,
-      "explore": 1762012205304,
+      "explore": 1762248393663,
       "crime": 1761940390878,
       "olhos_shinigami": 1761940890877,
       "diario": "2025-10-31"
     },
     "job": null,
-    "lastKnownChatId": "120363405774333550@g.us"
+    "lastKnownChatId": "120363405774333550@g.us",
+    "notificationChatId": "120363405774333550@g.us"
   },
   "218666012520515@lid": {
     "nome": "hg",
-    "ouro": 1300,
-    "bank": 0,
-    "cla": "Humano Comum",
-    "cla_id": "comum",
-    "passivos": [],
+    "ouro": 10700,
+    "bank": 591935,
+    "cla": "Clã Meliodas",
+    "cla_id": "meliodas",
+    "passivos": [
+      {
+        "id": "mr_satan_fama",
+        "nome": "Fama (Mr. Satan)"
+      }
+    ],
     "habilidades": [
-      "olhos_shinigami"
+      "reacao_total",
+      "estrondo",
+      "bankai_hyorinmaru",
+      "olhos_shinigami",
+      "excalibur",
+      "deathnote",
+      "geass"
     ],
     "cooldowns": {
       "pix": 1762018877307,
-      "work": 1762081361536,
-      "mine": 1762081247584,
-      "fish": 1762081309615,
-      "explore": 1762081443832,
-      "fazerbolo": 1762081331777,
-      "forjar": 1762081334822,
-      "diario": "2025-10-31",
-      "crime": 1762081577012,
-      "hunt": 1762019549304,
-      "olhos_shinigami": 1762081960377,
-      "mangekyou_inicial": 1762023270082
+      "work": 1762193812665,
+      "mine": 1762173915048,
+      "fish": 1762193513191,
+      "explore": 1762193624379,
+      "fazerbolo": 1762173993266,
+      "forjar": 1762193471933,
+      "diario": "2025-11-03",
+      "crime": 1762172636621,
+      "hunt": 1762193690331,
+      "deposit": 1762342294006,
+      "reacao_total": 1762301015729,
+      "buy_expensive_skill": 1762337378907,
+      "olhos_shinigami": 1762339296464
     },
     "job": null,
-    "lastKnownChatId": "120363405774333550@g.us"
+    "lastKnownChatId": "120363405774333550@g.us",
+    "buffs": {
+      "aokiji_freeze": 1762288492768,
+      "pocao_sorte": 1762196883392
+    },
+    "pocoesCooldown": {
+      "sorte": 1762200483392
+    }
   }
 }

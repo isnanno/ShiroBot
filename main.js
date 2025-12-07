@@ -1483,7 +1483,7 @@ async function handleVenda(message, args, authorId, chatId) {
         return safeSendMessage(sock, chatId, { text: `🚫 A habilidade *${hab.nome}* não pode ser vendida (é uma skill de clã ou bônus).` }, { quoted: message });
     }
     
-    const precoVenda = hab.preco;
+    const precoVenda = Math.floor(hab.preco / 2);
     
     user.habilidades.splice(habIndex, 1);
     user.ouro = (user.ouro || 0) + precoVenda;
